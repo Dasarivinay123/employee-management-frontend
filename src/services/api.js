@@ -2,7 +2,7 @@ import axios from "axios";
 import { useState, useEffect } from "react";
 
 const API = axios.create({
-  baseURL: "http://13.203.79.1:8080"
+  baseURL: "http://43.204.68.152:8080"
 });
 
 // Add JWT automatically (FIXED)
