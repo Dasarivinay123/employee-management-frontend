@@ -28,7 +28,7 @@ http://43.204.68.152
 - CSS
 - Bootstrap
 
-  CI/CD Imgages:
+  CI/CD Images:
   <img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/27337a7d-9dcf-425b-92ac-305de95c888a" />
   <img width="1919" height="918" alt="image" src="https://github.com/user-attachments/assets/5596d555-b0bb-44f6-87de-cbc0de147abf" />
 
